@@ -1,0 +1,20 @@
+= 1.0.4 =
+* [New]: Allow users to select a prebuilt header for mobile screen from Customizing ▸ Mobile ▸ Header Layout ▸ Prebuilt Heade.
+* [New]: Show wishlist and compare Ajax counter in header.
+* [Fixed]: Product preview in Elementor editor mode.
+
+= 1.0.3 =
+* [Fixed]: Theme URI added.
+* [New]: Upsell button added in customizer.
+
+= 1.0.2 =
+* [Fixed]: More than one text domain.
+
+= 1.0.1 =
+* [Fixed]: Accessibility issues.
+* [Fixed]: Skip content link not exists.
+* [Fixed]: Invalid theme tags.
+* [udpate]: Screenshot.
+
+= 1.0.0 =
+* Initial release 🚀
