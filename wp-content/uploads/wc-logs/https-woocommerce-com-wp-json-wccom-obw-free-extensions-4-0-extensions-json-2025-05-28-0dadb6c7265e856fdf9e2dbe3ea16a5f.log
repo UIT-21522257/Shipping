@@ -1,0 +1,22 @@
+2025-05-28T10:27:02+00:00 ERROR Error getting data feed
+2025-05-28T10:27:02+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL: no alternative certificate subject name matches target host name 'woocommerce.com'
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
